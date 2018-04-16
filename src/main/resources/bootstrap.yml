@@ -3,4 +3,4 @@ spring:
         name: edge-server-zuul
     cloud:
         config:
-            uri: https://config-server-sample.herokuapp.com
+            uri: http://localhost:8888
